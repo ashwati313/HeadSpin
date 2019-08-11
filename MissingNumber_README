@@ -1,1 +1,18 @@
+/*How to find the missing number in the given integer array of 1 to 100 without using any inbuilt function*/
+
+1) Download Eclipse.
+2) Create workspace.
+3) Create Java Project "HeadspinPrograms".
+4) Under src folder create class "MissingNumber".
+5) To find the missing number from an array of 1 to 100,create an array and skip some numbers later ask the user to enter the initial length of the array(in this case it will be 100),this program will substract the length of the present array giving us the number of elements missing also add one to this difference and store in variable.
+	Initialize another array of length combining the length of the present array and the variable number.Parse the present array and mark flag,places having flag 0 are the missing numbers.
+6) Run the program.
+
+Sample program is shared below:
+
+Enter initial length of Array:
+100
+Missing numbers in array:
+7,9,12,23,36,	
+	
 
