@@ -1,1 +1,24 @@
+/*write a program to display prime numbers between two intervals without using any inbuilt functions*/
+
+1) Download Eclipse.
+2) Create workspace.
+3) Create Java Project "HeadspinPrograms".
+4) Under src folder create class "PrimeBetweenTwoIntervals".
+5) To display prime numbers between two intervals we ask the user to enter the lower and upper limit of the interval and then check for prime numbers between them.
+6) Import the java.util.Scanner package.
+7) Run the program.
+
+
+Sample Output shared below:
+
+Enter the lower limit:
+10
+Enter the higher limit:
+20
+Prime Numbers between the interval 10 and 20:
+11 
+13 
+17 
+19 
+ 
 
