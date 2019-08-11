@@ -1,0 +1,33 @@
+/*write a program to insert an element into an array to the nth position without using any inbuilt function */
+
+
+1) Download Eclipse.
+2) Create workspace.
+3) Create Java Project "HeadspinPrograms".
+4) Under src folder create class "InsertNthElement".
+5) To insert nth element in the array, the pre requisite required is the number of elements in the array, position where the value needs to be inserted and the value.
+6) Import the java.util.Scanner package.
+7) Run the program.
+
+
+Sample Output shared below:
+
+Enter number of elements you want in Array:
+5
+Enter all the elements:
+4
+5
+6
+2
+1
+Enter the position where you want to insert element:
+3
+Enter the element you want to insert:
+30
+After Inserting
+4,
+5,
+30,
+6,
+2,
+1
